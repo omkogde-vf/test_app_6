@@ -1,4 +1,10 @@
 # README
+Complete Ruby on Rails Developer
+
+
+Display "Hello World" in Browser
+Formalize using Rails convention
+Review MVC diagram for information flow
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,3 +28,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
