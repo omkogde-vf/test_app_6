@@ -1,5 +1,5 @@
 # README
-Complete Ruby on Rails Developer
+Complete Ruby on Rails Developer Course
 
 
 Display "Hello World" in Browser
